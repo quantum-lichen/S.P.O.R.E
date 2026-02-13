@@ -1,8 +1,10 @@
+**S.P.O.R.E. — Symbiotic Prompting & Ontological Routing Engine** is the project name.
+
 <p align="center">
   <img src="assets/dcos-banner.svg" alt="DCOS Banner" width="800"/>
 </p>
 
-<h1 align="center">🧠 DCOS — Distributed Cognitive Operating System</h1>
+<h1 align="center">🧠 DCOS — Distributed Cognitive Operating System is the architecture in project atm.</h1>
 
 <p align="center">
   <em>An open-source fractal architecture for augmenting LLM reasoning<br/>through distributed, modular, and self-routing cognitive profiles.</em>
